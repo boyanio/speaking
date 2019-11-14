@@ -6,7 +6,7 @@ This repository contains my slides from diverse conferences. I upload my slides 
 
 ### 2019
 
-[Compiling the world to WebAssembly](/2019/bgphp/php-webassembly.php)  
+[Compiling the world to WebAssembly](/2019/bgphp/php-webassembly.pdf)  
 November 9, 2019 @ BG PHP Conference
 
 [A journey of multithreading using WebAssembly](/2019/revo.js/multithreading-webassembly.pdf)  
