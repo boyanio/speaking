@@ -6,6 +6,9 @@ This repository contains my slides from diverse conferences. I upload my slides 
 
 ### 2019
 
+[Design patterns and practices for Progressive Web Apps](/2019/pwa-design-patterns.pdf)  
+November 23, 2019 @ jsTalks Bulgaria
+
 [Compiling the world to WebAssembly](/2019/bgphp/php-webassembly.pdf)  
 November 9, 2019 @ BG PHP Conference
 
